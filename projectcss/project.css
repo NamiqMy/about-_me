@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(166, 149, 149);
+}   
+
+.header{
+    color: blue;
+}
+
+h3{
+    text-transform: capitalize;
+}
+
+.quarters{
+    color: white;
+}
+
+p{
+    display: inline-block;
+}
+
+.happyness img{
+    height: 270px;
+    width: 200px;
+}
+
+.sadness img{
+    height: 270px;
+    width: 370px;
+}
+
+.mood{
+    display: flex;
+}
